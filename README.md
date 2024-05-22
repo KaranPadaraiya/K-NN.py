@@ -10,13 +10,13 @@ Read the full paper: [Price Prediction for Pharmaceutical Stocks During Covid-19
 
 ## Result Images
 - **Linear Regression:**
-  ![Linear Regression Result](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/blob/master/LINEAR%20REG/SUNPHARMA.png)
+  - ![Linear Regression Result](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/blob/master/LINEAR%20REG/Linear%20Regression.png)
   
-- **KNN:**
-  ![KNN Result](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/blob/master/knn/SUMPHARMA.png)
+- **K-NN:**
+  - ![KNN Result](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/blob/master/knn/KNN.png)
   
 - **Prophet:**
-  ![Prophet Result](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/blob/master/PROPHET/SUNPHARMA%20TEST.png)
+  - ![Prophet Result](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/blob/master/PROPHET/Fbprophet.png)
 
 Feel free to explore the paper and result images for detailed insights into the project and its findings.
 
